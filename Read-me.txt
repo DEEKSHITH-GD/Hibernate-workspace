@@ -1,0 +1,3 @@
+1) Add all jar files present in "...\Hibernate All Jars\" to libraries of the project.
+2) Add the jar files to deployment assembly.
+3) Setup tomcat 9.0 server.

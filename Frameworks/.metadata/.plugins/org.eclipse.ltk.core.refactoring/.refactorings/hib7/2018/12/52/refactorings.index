@@ -1,0 +1,9 @@
+1545634885936	Rename type 'Address'
+1545634899149	Rename type 'Employee'
+1545634923112	Rename type 'EmployeeApp'
+1545635102575	Encapsulate field 'pname'
+1545635108590	Encapsulate field 'pid'
+1545635152517	Rename resource 'Employee.hbm.xml'
+1545635166310	Rename resource 'Address.hbm.xml'
+1545636177243	Copy compilation units
+1545636218725	Copy files
